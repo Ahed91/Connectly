@@ -4,6 +4,8 @@
 [![Release](https://img.shields.io/github/v/release/crudly/Connectly?style=flat-square)](https://github.com/crudly/connectly/releases/latest)
 [![License](https://img.shields.io/github/license/crudly/Connectly?style=flat-square)](LICENSE)
 
+
+
 Store database connections on the database :) Everything encrypted.
 
 ```php
